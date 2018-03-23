@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?ccsproject version="1.0"?>
+<projectOptions>
+	<deviceVariant value="MSP432P401R"/>
+	<deviceFamily value="MSP432"/>
+	<deviceEndianness value="little"/>
+	<codegenToolVersion value="5.2.6"/>
+	<isElfFormat value="true"/>
+	<linkerCommandFile value="msp432p401r.cmd"/>
+	<rts value="libc.a"/>
+	<createSlaveProjects value=""/>
+	<origin value="C:\ti\msp\MSPWare_3_20_00_37\examples\boards\MSP-EXP432P401R\MSP-EXP432P401R_Software_Examples\Firmware\Source\OutOfBox_MSP432P401R\CCS\OutOfBox_MSP432P401R.projectspec"/>
+	<templateProperties value="id=OutOfBox_MSP432P401R.projectspec.OutOfBox_MSP432P401R,"/>
+	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
+	<isTargetManual value="false"/>
+</projectOptions>
