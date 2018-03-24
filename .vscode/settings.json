@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "hal.h": "c",
+        "main.h": "c",
+        "hcitrans.h": "c",
+        "driverlib.h": "c",
+        "i2c.h": "c",
+        "msp.h": "c"
+    }
+}
